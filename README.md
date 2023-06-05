@@ -1,3 +1,3 @@
-# title here
+# placeholder readme file
 
-additional description
+Github will always show the file named README.md at the top of the repo by default
