@@ -5,3 +5,7 @@ Github will always show the file named README.md at the top of the repo by defau
 ## subheader
 
 additional text~
+
+## Local
+
+1. Open index.html in your browser.
